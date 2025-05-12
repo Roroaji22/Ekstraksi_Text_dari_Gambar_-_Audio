@@ -20,10 +20,10 @@ Proyek ini merupakan notebook interaktif untuk mengekstrak teks dari **gambar** 
 
 ## ⚙️ Cara Menjalankan
 
-1. **Clone repository** ini:
-   ```bash
-   git clone https://github.com/username/nama-repo.git
-   cd nama-repo
-2. Instal semua dependensi:
+1. Instal semua dependensi
+2. Instal Tesseract OCR
+3. Jalankan notebook
+
+   
    
 
